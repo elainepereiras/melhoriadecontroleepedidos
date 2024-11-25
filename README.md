@@ -2,9 +2,9 @@
 O aplicativo foi projetado para automatizar e agilizar o processo de inserção de informações que serão posteriormente usadas para gerar relatórios no Power BI. Abaixo estão descritas as funcionalidades e etapas para o uso do aplicativo.
 
 ## 1 - Modos de inserção de Dados
-Serão disponibilizados um arquivo compactado com dois modos para a inserção de dados. Os modos disponíveis são:
-·Excel Macro-Enabled Workbook  - xlsm
-·Visual Basic Script - Vbs. 
+Serão disponibilizados um arquivo compactado com dois modos para a inserção de dados. Os modos disponíveis são: 
+- Excel Macro-Enabled Workbook  - xlsm.
+- Visual Basic Script - Vbs. 
 
 ## 2 - Instruções para Extrair Arquivos e Criar Atalho do Aplicativo ACA.vbs
 2.1 - Extrair Arquivos para o Disco C:
